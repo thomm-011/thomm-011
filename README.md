@@ -2,15 +2,24 @@
 
 # Hi, I'm Thomas Silva Cordeiro
 
-My work brings together CI/CD, cloud infrastructure on GCP and AWS, and application development. I contribute to team projects and build tools that make technical environments easier to provision, understand, and operate.
+I have **3 years of experience in the field**, working across cloud infrastructure, Kubernetes, CI/CD, and application development. My work includes deploying and integrating AI platforms with Amazon Bedrock.
 
-Based in **São Paulo, Brazil**. My experience includes infrastructure as code, application delivery, data collection tools, and web interfaces.
+Based in **São Paulo, Brazil**. I connect infrastructure and applications: from Terraform and delivery pipelines to Python crawlers, Angular interfaces, and AI platform integrations.
 
 **[Explore my portfolio](https://thomm-011.github.io/)** · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/)
 
 ## Selected professional contributions
 
-I have contributed to collaborative projects from **[Hike](https://github.com/go-hike)** and **[Total Acesso](https://github.com/totalacesso)**.
+My professional contributions include projects from Aquarela, Tele Sena, Renda Fácil, **[Hike](https://github.com/go-hike)**, and **[Total Acesso](https://github.com/totalacesso)**.
+
+### Kubernetes, AI, and cloud delivery
+
+- **AI platforms · Aquarela** — Contributed to deploying and configuring AI platform components on Kubernetes, including integrations with Amazon Bedrock.
+- **Kubernetes on AWS · Aquarela** — Contributions to Kubernetes/EKS projects, infrastructure automation, and capacity-related work with Karpenter.
+- **AWS infrastructure · Tele Sena** — Contributions to a Terraform-based infrastructure project and automated/scheduled routines.
+- **Service delivery · Renda Fácil** — Work on infrastructure, CI/CD, and delivery of containerized Go services.
+
+### Other collaborative work
 
 - **GCP infrastructure as code · Hike** — Infrastructure and provisioning automation with Terraform.
 - **AWS infrastructure · Total Acesso** — Contributions to infrastructure projects using CloudFormation, Terraform, and CI/CD.
@@ -21,6 +30,15 @@ I have contributed to collaborative projects from **[Hike](https://github.com/go
 These are collaborative professional projects. Source code and internal implementation details remain private.
 
 **[Read the case summaries](https://thomm-011.github.io/#experiencia)**
+
+## AWS certifications
+
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/28c2c38c-5444-4084-a693-8456c6d1b2ef)** · valid through 2028-05-09.
+- **[AWS Certified Developer – Associate](https://www.credly.com/badges/6d5a5af2-b8a4-43fa-b005-94b2c9bf84b0)** · valid through 2028-09-24.
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/e1909cec-0e91-40f9-bbb8-58a3bb7d4431)** · valid through 2028-09-24.
+- **[AWS Certified AI Practitioner](https://www.credly.com/badges/5af590ae-84fd-439a-82ac-864ac9e4b1f9)** · valid through 2029-07-17.
+
+[All credentials on Credly](https://www.credly.com/users/thomas-silva-cordeiro/badges)
 
 ## Selected public projects
 
@@ -63,5 +81,7 @@ A Python tool for querying AWS costs, comparing spending across periods, checkin
 - Documentation to explore the architecture and run each project.
 
 ## Get in touch
+
+**[thomas.s.cordeiro@hotmail.com](mailto:thomas.s.cordeiro@hotmail.com)**
 
 [Portfolio](https://thomm-011.github.io/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositories](https://github.com/thomm-011?tab=repositories)
