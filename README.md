@@ -1,17 +1,6 @@
-```text
- _____ _   _  ___  __  __    _    ____
-|_   _| | | |/ _ \|  \/  |  / \  / ___|
-  | | | |_| | | | | |\/| | / _ \ \___ \
-  | | |  _  | |_| | |  | |/ ___ \ ___) |
-  |_| |_| |_|\___/|_|  |_/_/   \_\____/
+![Retrato ASCII de Thomas Silva Cordeiro e apresentação](assets/ascii-profile.svg)
 
-thomas@github:~$ whoami
-Thomas Cordeiro
-AWS / Terraform / Python / Automação
-São Paulo, Brasil
-```
-
-# Olá, eu sou o Thomas
+# Olá, eu sou o Thomas Silva Cordeiro
 
 Meus projetos exploram infraestrutura em nuvem, automação e ferramentas para tornar ambientes mais fáceis de entender e operar.
 
@@ -45,4 +34,4 @@ Consulta de custos AWS, comparação de períodos e relatórios exportáveis em 
 
 ## Vamos conversar
 
-[LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositórios](https://github.com/thomm-011?tab=repositories)
+[Portfólio](https://thomm-011.github.io/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositórios](https://github.com/thomm-011?tab=repositories)
