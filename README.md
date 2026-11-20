@@ -1,37 +1,53 @@
-![Retrato ASCII de Thomas Silva Cordeiro e apresentação](assets/ascii-profile.svg)
+![ASCII portrait and introduction of Thomas Silva Cordeiro](assets/ascii-profile.svg)
 
-# Olá, eu sou o Thomas Silva Cordeiro
+# Hi, I'm Thomas Silva Cordeiro
 
-Meus projetos exploram infraestrutura em nuvem, automação e ferramentas para tornar ambientes mais fáceis de entender e operar.
+I explore cloud infrastructure, infrastructure as code, and automation. My projects focus on making technical environments easier to provision, understand, and operate.
 
-Por aqui, você encontra projetos com **AWS**, **Terraform** e **Python**: de inventário de recursos e acompanhamento de custos a infraestrutura como código e análise de armazenamento.
+Based in **São Paulo, Brazil**, I work on projects with **AWS**, **Terraform**, and **Python**, from resource inventories and cost tracking to web application infrastructure and storage analysis.
 
-## Projetos em destaque
+**[Explore my portfolio](https://thomm-011.github.io/)** · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/)
 
-### [AWS Inventory Scanner](https://github.com/thomm-011/aws-inventory-scanner)
-
-Descoberta e inventário de recursos AWS, com exportação de relatórios e comparação entre scans.
-
-`Python · Boto3 · AWS`
+## Selected projects
 
 ### [Terraform AWS Webapp](https://github.com/thomm-011/terraform-aws-webapp)
 
-Infraestrutura para uma aplicação web com VPC, balanceamento de carga, EC2, RDS e monitoramento.
+Infrastructure as code for a web application on AWS, including a VPC, Application Load Balancer, EC2 Auto Scaling, RDS MySQL, S3, and CloudWatch alarms.
 
-`Terraform · AWS · HCL`
+**Focus:** reproducible provisioning, network segmentation, and configurable infrastructure.
+
+`Terraform` `AWS` `HCL`
+
+### [AWS Inventory Scanner](https://github.com/thomm-011/aws-inventory-scanner)
+
+A Python CLI for discovering AWS resources, exporting inventories, and comparing scans to identify changes in an environment.
+
+**Focus:** cloud visibility, resource discovery, and reporting.
+
+`Python` `Boto3` `AWS` `CLI`
 
 ### [Disk Usage Analyzer](https://github.com/thomm-011/disk-usage-analyzer)
 
-Análise de uso de disco pelo terminal e pela web, com visualizações de diretórios e arquivos.
+A disk usage analysis tool with web and command-line interfaces, directory visualizations, and filters for investigating storage consumption.
 
-`Python · Flask · CLI`
+**Focus:** turning filesystem data into useful operational information.
+
+`Python` `Flask` `CLI`
 
 ### [AWS Cost Monitor](https://github.com/thomm-011/aws-cost-monitor)
 
-Consulta de custos AWS, comparação de períodos e relatórios exportáveis em JSON e CSV.
+A Python tool for querying AWS costs, comparing spending across periods, checking configured limits, and exporting reports.
 
-`Python · Boto3 · Cost Explorer`
+**Focus:** cost visibility and configurable budget checks.
 
-## Vamos conversar
+`Python` `Boto3` `AWS Cost Explorer`
 
-[Portfólio](https://thomm-011.github.io/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositórios](https://github.com/thomm-011?tab=repositories)
+## What you'll find here
+
+- Cloud infrastructure and Terraform configurations.
+- Python tools for inventory, reporting, and operational tasks.
+- Documentation to explore the architecture and run each project.
+
+## Get in touch
+
+[Portfolio](https://thomm-011.github.io/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositories](https://github.com/thomm-011?tab=repositories)
