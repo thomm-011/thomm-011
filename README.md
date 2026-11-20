@@ -16,19 +16,21 @@ My professional contributions include projects from Aquarela, Tele Sena, Renda F
 
 - **[bedrock-access-gateway · Aquarela](https://thomm-011.github.io/#case-bedrock-access-gateway)** — Deployment and integration work around an existing Amazon Bedrock gateway in the context of AI platforms.
 - **[mcp-finops · Aquarela](https://thomm-011.github.io/#case-mcp-finops)** — Contributions to configuring and deploying a FinOps MCP component on Kubernetes.
-- **[modernizacao-eks-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-modernizacao-eks-lidercap)** — Contributions to modernization, configuration, and operational automation in Kubernetes/EKS environments.
-- **[karpenter-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-karpenter-lidercap)** — Work on Karpenter-related configuration and capacity provisioning in EKS environments.
-- **[KEDA + Amazon SQS · Aquarela / Lidercap](https://thomm-011.github.io/#case-keda-sqs)** — Contributions to event-driven autoscaling for SQS-consuming workers on EKS, using KEDA ScaledObjects and the AWS SQS queue scaler.
+- **[modernizacao-eks-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-modernizacao-eks-lidercap)** — Configured Kubernetes components and operational automation in a modernization project covering 10 EKS clusters.
+- **[karpenter-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-karpenter-lidercap)** — Configured and tuned Karpenter capacity provisioning as part of a team initiative that reduced EKS EC2 costs by 28% between January and May 2026.
+- **[KEDA + Amazon SQS · Aquarela / Lidercap](https://thomm-011.github.io/#case-keda-sqs)** — Configured KEDA ScaledObjects and AWS SQS triggers for worker replica scaling in a project with 48 SQS queues. Karpenter supplied node capacity; KEDA controlled application replicas.
 - **[aws-stack-telesena · Tele Sena](https://thomm-011.github.io/#case-telesena)** — Contributions to modular Terraform infrastructure on AWS and automated/scheduled routines.
-- **Renda Fácil** — Work on infrastructure, CI/CD, and delivery of containerized Go services.
+- **[rendafacil-services · Renda Fácil](https://thomm-011.github.io/#case-rendafacil)** — Configured infrastructure, CI/CD, and delivery for a Go monorepo with API, worker, migration, and backoffice integration components; SQS, LocalStack, and New Relic are part of the project.
+
+**Shared project scope · Lidercap / Aquarela · January–May 2026:** 10 EKS clusters, 48 SQS queues, and a team result of 28% lower EKS EC2 costs with Karpenter. These figures describe the same initiative across the EKS, Karpenter, and KEDA cases.
 
 ### Other collaborative work
 
-- **GCP infrastructure as code · Hike** — Infrastructure and provisioning automation with Terraform.
-- **AWS infrastructure · Total Acesso** — Contributions to infrastructure projects using CloudFormation, Terraform, and CI/CD.
-- **Application delivery · Hike** — Contributions to CI/CD pipelines for containerized applications on GCP, using GitHub Actions, Docker, and Kubernetes.
-- **Data crawler · Total Acesso** — Application development with Python, Playwright, and pandas.
-- **Web Facial · Total Acesso** — Contributions to the web application with Angular and TypeScript.
+- **GCP infrastructure as code · Hike** — Configured Terraform infrastructure with BigQuery, Cloud Functions, Pub/Sub, Cloud Scheduler, Cloud SQL, Cloud Storage, networking, and compute components.
+- **AWS infrastructure · Total Acesso** — Adjusted CloudFormation/Terraform configurations and CI/CD around VPC, EC2, ECS, RDS, S3, CloudFront, IAM, and CloudWatch resources.
+- **Application delivery · Hike** — Configured GitHub Actions workflows for Docker image builds, publishing, and Kubernetes delivery on GCP using gcloud and kubectl.
+- **Data crawler · Total Acesso** — Developed and adjusted data collection/processing routines with Python, Playwright, and pandas.
+- **Web Facial · Total Acesso** — Developed and adjusted web interface features with Angular and TypeScript.
 
 These are collaborative professional projects. Source code and internal implementation details remain private.
 
@@ -44,6 +46,12 @@ These are collaborative professional projects. Source code and internal implemen
 [All credentials on Credly](https://www.credly.com/users/thomas-silva-cordeiro/badges)
 
 ## Selected public projects
+
+### [EKS Autoscaling Lab](https://github.com/thomm-011/eks-autoscaling-lab)
+
+A generic reference lab with a synthetic SQS worker, KEDA ScaledObjects, a Karpenter NodePool, and Terraform queue/identity configuration. Uses an existing disposable EKS cluster as a prerequisite. **Offline tests only so far; not yet deployed on AWS.**
+
+`EKS` `Karpenter` `KEDA` `SQS` `Terraform`
 
 ### [Terraform AWS Webapp](https://github.com/thomm-011/terraform-aws-webapp)
 
@@ -85,6 +93,6 @@ A Python tool for querying AWS costs, comparing spending across periods, checkin
 
 ## Get in touch
 
-**[thomas.s.cordeiro@hotmail.com](mailto:thomas.s.cordeiro@hotmail.com)**
+**[thomassilvacordeiro@gmail.com](mailto:thomassilvacordeiro@gmail.com)**
 
 [Portfolio](https://thomm-011.github.io/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositories](https://github.com/thomm-011?tab=repositories)
