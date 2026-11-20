@@ -12,12 +12,14 @@ Based in **São Paulo, Brazil**. I connect infrastructure and applications: from
 
 My professional contributions include projects from Aquarela, Tele Sena, Renda Fácil, **[Hike](https://github.com/go-hike)**, and **[Total Acesso](https://github.com/totalacesso)**.
 
-### Kubernetes, AI, and cloud delivery
+### AI, FinOps, Kubernetes, and cloud delivery
 
-- **AI platforms · Aquarela** — Contributed to deploying and configuring AI platform components on Kubernetes, including integrations with Amazon Bedrock.
-- **Kubernetes on AWS · Aquarela** — Contributions to Kubernetes/EKS projects, infrastructure automation, and capacity-related work with Karpenter.
-- **AWS infrastructure · Tele Sena** — Contributions to a Terraform-based infrastructure project and automated/scheduled routines.
-- **Service delivery · Renda Fácil** — Work on infrastructure, CI/CD, and delivery of containerized Go services.
+- **[bedrock-access-gateway · Aquarela](https://thomm-011.github.io/#case-bedrock-access-gateway)** — Deployment and integration work around an existing Amazon Bedrock gateway in the context of AI platforms.
+- **[mcp-finops · Aquarela](https://thomm-011.github.io/#case-mcp-finops)** — Contributions to configuring and deploying a FinOps MCP component on Kubernetes.
+- **[modernizacao-eks-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-modernizacao-eks-lidercap)** — Contributions to modernization, configuration, and operational automation in Kubernetes/EKS environments.
+- **[karpenter-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-karpenter-lidercap)** — Work on Karpenter-related configuration and capacity provisioning in EKS environments.
+- **[aws-stack-telesena · Tele Sena](https://thomm-011.github.io/#case-telesena)** — Contributions to modular Terraform infrastructure on AWS and automated/scheduled routines.
+- **Renda Fácil** — Work on infrastructure, CI/CD, and delivery of containerized Go services.
 
 ### Other collaborative work
 
