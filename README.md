@@ -18,6 +18,7 @@ My professional contributions include projects from Aquarela, Tele Sena, Renda F
 - **[mcp-finops · Aquarela](https://thomm-011.github.io/#case-mcp-finops)** — Contributions to configuring and deploying a FinOps MCP component on Kubernetes.
 - **[modernizacao-eks-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-modernizacao-eks-lidercap)** — Contributions to modernization, configuration, and operational automation in Kubernetes/EKS environments.
 - **[karpenter-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-karpenter-lidercap)** — Work on Karpenter-related configuration and capacity provisioning in EKS environments.
+- **[KEDA + Amazon SQS · Aquarela / Lidercap](https://thomm-011.github.io/#case-keda-sqs)** — Contributions to event-driven autoscaling for SQS-consuming workers on EKS, using KEDA ScaledObjects and the AWS SQS queue scaler.
 - **[aws-stack-telesena · Tele Sena](https://thomm-011.github.io/#case-telesena)** — Contributions to modular Terraform infrastructure on AWS and automated/scheduled routines.
 - **Renda Fácil** — Work on infrastructure, CI/CD, and delivery of containerized Go services.
 
