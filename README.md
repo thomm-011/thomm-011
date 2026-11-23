@@ -6,7 +6,7 @@ I have **3 years of experience in the field**, working across cloud infrastructu
 
 Based in **São Paulo, Brazil**. I connect infrastructure and applications: from Terraform and delivery pipelines to Python crawlers, Angular interfaces, and AI platform integrations.
 
-**[Explore my portfolio](https://thomm-011.github.io/)** · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/)
+**[Explore my portfolio](https://thomm-011.github.io/portfolio/)** · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/)
 
 ## Selected professional contributions
 
@@ -14,13 +14,13 @@ My professional contributions include projects from Aquarela, Tele Sena, Renda F
 
 ### AI, FinOps, Kubernetes, and cloud delivery
 
-- **[bedrock-access-gateway · Aquarela](https://thomm-011.github.io/#case-bedrock-access-gateway)** — Deployment and integration work around an existing Amazon Bedrock gateway in the context of AI platforms.
-- **[mcp-finops · Aquarela](https://thomm-011.github.io/#case-mcp-finops)** — Contributions to configuring and deploying a FinOps MCP component on Kubernetes.
-- **[modernizacao-eks-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-modernizacao-eks-lidercap)** — Configured Kubernetes components and operational automation in a modernization project covering 10 EKS clusters.
-- **[karpenter-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/#case-karpenter-lidercap)** — Configured and tuned Karpenter capacity provisioning as part of a team initiative that reduced EKS EC2 costs by 28% between January and May 2026.
-- **[KEDA + Amazon SQS · Aquarela / Lidercap](https://thomm-011.github.io/#case-keda-sqs)** — Configured KEDA ScaledObjects and AWS SQS triggers for worker replica scaling in a project with 48 SQS queues. Karpenter supplied node capacity; KEDA controlled application replicas.
-- **[aws-stack-telesena · Tele Sena](https://thomm-011.github.io/#case-telesena)** — Contributions to modular Terraform infrastructure on AWS and automated/scheduled routines.
-- **[rendafacil-services · Renda Fácil](https://thomm-011.github.io/#case-rendafacil)** — Configured infrastructure, CI/CD, and delivery for a Go monorepo with API, worker, migration, and backoffice integration components; SQS, LocalStack, and New Relic are part of the project.
+- **[bedrock-access-gateway · Aquarela](https://thomm-011.github.io/portfolio/#case-bedrock-access-gateway)** — Deployment and integration work around an existing Amazon Bedrock gateway in the context of AI platforms.
+- **[mcp-finops · Aquarela](https://thomm-011.github.io/portfolio/#case-mcp-finops)** — Contributions to configuring and deploying a FinOps MCP component on Kubernetes.
+- **[modernizacao-eks-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/portfolio/#case-modernizacao-eks-lidercap)** — Configured Kubernetes components and operational automation in a modernization project covering 10 EKS clusters.
+- **[karpenter-lidercap · Aquarela / Lidercap](https://thomm-011.github.io/portfolio/#case-karpenter-lidercap)** — Configured and tuned Karpenter capacity provisioning as part of a team initiative that reduced EKS EC2 costs by 28% between January and May 2026.
+- **[KEDA + Amazon SQS · Aquarela / Lidercap](https://thomm-011.github.io/portfolio/#case-keda-sqs)** — Configured KEDA ScaledObjects and AWS SQS triggers for worker replica scaling in a project with 48 SQS queues. Karpenter supplied node capacity; KEDA controlled application replicas.
+- **[aws-stack-telesena · Tele Sena](https://thomm-011.github.io/portfolio/#case-telesena)** — Contributions to modular Terraform infrastructure on AWS and automated/scheduled routines.
+- **[rendafacil-services · Renda Fácil](https://thomm-011.github.io/portfolio/#case-rendafacil)** — Configured infrastructure, CI/CD, and delivery for a Go monorepo with API, worker, migration, and backoffice integration components; SQS, LocalStack, and New Relic are part of the project.
 
 **Shared project scope · Lidercap / Aquarela · January–May 2026:** 10 EKS clusters, 48 SQS queues, and a team result of 28% lower EKS EC2 costs with Karpenter. These figures describe the same initiative across the EKS, Karpenter, and KEDA cases.
 
@@ -34,7 +34,7 @@ My professional contributions include projects from Aquarela, Tele Sena, Renda F
 
 These are collaborative professional projects. Source code and internal implementation details remain private.
 
-**[Read the case summaries](https://thomm-011.github.io/#experiencia)**
+**[Read the case summaries](https://thomm-011.github.io/portfolio/#experiencia)**
 
 ## AWS certifications
 
@@ -95,4 +95,4 @@ A Python tool for querying AWS costs, comparing spending across periods, checkin
 
 **[thomassilvacordeiro@gmail.com](mailto:thomassilvacordeiro@gmail.com)**
 
-[Portfolio](https://thomm-011.github.io/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositories](https://github.com/thomm-011?tab=repositories)
+[Portfolio](https://thomm-011.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/thomas-s-923082184/) · [Repositories](https://github.com/thomm-011?tab=repositories)
