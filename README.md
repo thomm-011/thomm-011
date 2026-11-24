@@ -49,9 +49,9 @@ These are collaborative professional projects. Source code and internal implemen
 
 ### [mcp-aws-finops](https://github.com/thomm-011/mcp-aws-finops)
 
-A read-only MCP server that lets an AI agent (Claude, Cursor, Hermes) answer AWS cost questions in plain language — 7 tools (cost summary, period comparison, top cost drivers, cost by tag with % untagged, idle resources, month-end forecast, anomaly explanation), a weekly report resource, and a review prompt. Runs fully offline over synthetic FOCUS-format billing data (40 tests, 96% coverage); verified end-to-end with a real agent (Hermes + Claude Haiku). Similar theme to the **[mcp-finops · Aquarela](https://thomm-011.github.io/portfolio/#case-mcp-finops)** professional case, but a separate, generic public project — not that code.
+A read-only MCP server that lets an AI agent (Claude, Cursor, Hermes) answer AWS cost questions in plain language — 7 tools (cost summary, period comparison, top cost drivers, cost by tag with % untagged, idle resources, month-end forecast, anomaly explanation), a weekly report resource, and a review prompt. Runs fully offline over synthetic FOCUS-format billing data (86 tests, 96% coverage); verified end-to-end with a real agent (Hermes + Claude Haiku). Similar theme to the **[mcp-finops · Aquarela](https://thomm-011.github.io/portfolio/#case-mcp-finops)** professional case, but a separate, generic public project — not that code.
 
-**Focus:** FinOps tooling for AI agents via MCP. AWS Cost Explorer backend is on the roadmap, not implemented yet.
+**Focus:** FinOps tooling for AI agents via MCP. Optional AWS Cost Explorer backend with a least-privilege IAM policy and Terraform role module, tested with stubs/mocks (not yet validated against a live account).
 
 `MCP` `Python` `DuckDB` `FastMCP` `FinOps`
 
