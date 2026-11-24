@@ -55,6 +55,14 @@ A read-only MCP server that lets an AI agent (Claude, Cursor, Hermes) answer AWS
 
 `MCP` `Python` `DuckDB` `FastMCP` `FinOps`
 
+### [Muralha](https://github.com/thomm-011/muralha)
+
+A security copilot for people building with AI agents: skills that guide the agent through charter, detection, planning, hardening, and verification, plus a CLI and a local dashboard. No API key required. Findings are mapped to the OWASP Top 10:2025, and the report can fail a pull request in CI. Published on [npm](https://www.npmjs.com/package/muralha) with provenance. **In one demo project with 11 deliberate flaws, detection found all 11; this is a small test on a single project.**
+
+**Focus:** security review and hardening for AI-assisted development.
+
+`TypeScript` `Node.js` `OWASP` `GitHub Actions`
+
 ### [EKS Autoscaling Lab](https://github.com/thomm-011/eks-autoscaling-lab)
 
 A generic reference lab with a synthetic SQS worker, KEDA ScaledObjects, a Karpenter NodePool, and Terraform queue/identity configuration. Uses an existing disposable EKS cluster as a prerequisite. **Offline tests only so far; not yet deployed on AWS.**
@@ -97,6 +105,7 @@ A Python tool for querying AWS costs, comparing spending across periods, checkin
 
 - Cloud infrastructure and Terraform configurations.
 - Python tools for inventory, reporting, and operational tasks.
+- Security tooling for AI-assisted development.
 - Documentation to explore the architecture and run each project.
 
 ## Get in touch
